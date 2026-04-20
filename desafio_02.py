@@ -1,0 +1,5 @@
+print("Enter your date of birth: ")
+day = input("Day: ")
+month = input("Month: ")
+year = input("Year: ")
+print("You were born on ",month,day,",",year,".")
